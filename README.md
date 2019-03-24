@@ -1,1 +1,1 @@
-source code of my **parallel programming in golang** serials
+source code of my [**parallel programming in golang**](https://blog.csdn.net/m0_37554486/article/category/8789355) serials
