@@ -1,2 +1,1 @@
-# parallel-programming-in-golang
-parallel programming in golfing
+source code of my **parallel programming in golang** serials
